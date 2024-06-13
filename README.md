@@ -2,3 +2,4 @@
 * comando git push
 ## salvando novos comandos
 * comando git push
+* comando git pull
